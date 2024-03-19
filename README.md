@@ -1,5 +1,4 @@
-# Practice Rollcall
-
+# Practice Rollcall Application
 This is a rollcall application where the user will check if a player is at practice or not.
 
 # Purpose
