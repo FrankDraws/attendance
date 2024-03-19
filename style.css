@@ -1,0 +1,18 @@
+/* Rollcall app */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: gainsboro;
+    display: grid;
+    justify-items: center;
+}
+
+#content {
+    width: 50vw;
+    background-color: #fff;
+}
+
+li {
+    list-style: none;
+}
