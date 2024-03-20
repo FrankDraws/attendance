@@ -9,10 +9,21 @@ body {
 }
 
 #content {
-    width: 50vw;
+    width: 50%;
     background-color: #fff;
+    padding: 1.3em;
+    margin: 3em 0 0 0;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
 }
 
 li {
     list-style: none;
+    line-height: 1.7;
+}
+input[type="checkbox"] {
+    margin-right: 1em;
 }
